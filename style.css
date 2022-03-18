@@ -1,0 +1,180 @@
+body {
+color: #898989;
+font-family: Lato, sans-serif;
+}
+h1 {
+    font-size: 48px;
+    line-height: 70px;
+    font-family: Lato, sans-serif;
+    color: #ffff;
+    font-weight: 500;
+    text-align: center;
+    margin-top: 0%;
+    position: absolute;
+        top: 25%;
+        left: 35%;
+
+        
+}
+.un {
+    height: 480px;
+    background-image: url(image/banner-image-1.jpg);
+    background-size: 100%;
+    position: relative;
+    background-repeat: no-repeat;
+    z-index: 10;
+}
+.conteiner1 {
+    background-color: #ffff;
+    position: absolute;
+    top: 350px;
+    left: 100px;
+    font-family: "Open Sans Bold", sans-serif;
+    font-size: 13px;
+    line-height: 17px;
+    font-weight: normal;
+    height: 450px;  
+    width: 300px;
+    z-index: 30;
+
+box-shadow: 1px 1px 10px gray;
+}
+.conteiner1 div {
+padding: 5px;
+color: #898989;
+
+
+
+}
+hr {
+    color: #cecbcb;
+    margin-top: 40px;
+    width: initial;
+
+
+}
+.Box-1 {
+    background-color: #e36018;
+}
+.Box-1 h3 {
+    color: #ffff;
+    margin-left: 10px;
+}
+.Box-2 h3 {
+    color: #e36018;
+    margin-left: 10px;
+
+}
+.Box-3 {
+    margin-left: 10px;
+}
+.Box-4 {
+    margin-left: 10px;
+}
+.Box-5 {
+    margin-left: 10px;
+
+}
+.box-6 h3 {
+    font-size: 24px;
+    line-height: 40px;
+    font-style: italic;
+    font-family: Lato, sans-serif;
+    font-weight: 400;
+    margin-top: 0px;
+    margin-left: 10px;
+}
+.Box-7 h3 {
+color:  #e36018; 
+font-size: 13px;
+    line-height: 17px;
+    position: absolute;
+top: 400px;
+margin-left: 10px;
+
+
+
+
+
+
+
+
+}
+.conteiner2 {
+    background-color: #ffff;
+    position: absolute;
+    left: 60px;
+    top: 300px;
+    z-index: 20;
+    right: 60px;
+    font-weight: 300;
+
+}
+.conteiner2 h4 {
+    margin-left: 35%;
+    margin-right: 5%;
+    font-size: 24px;
+    line-height: 40px;
+    font-style: italic;
+    font-weight: normal;
+    font-family: Lato;
+    
+}
+.conteiner2 h2 {
+    margin-left: 35%;
+    margin-top: 50px;
+    color: black;
+
+}
+.conteiner2 p {
+    margin-left: 35%;
+    margin-right: 60px;
+    font-size: 16px;
+    line-height: 31px;
+
+}
+.conteiner3 {
+    z-index: 30;
+    margin-left: 36%;
+    position: absolute;
+    top: 1130px;
+
+}
+.conteiner4 {
+    position: absolute;
+    top: 1480px;
+    margin-left: 45%;
+    font-style: italic;
+    font-weight: 300;
+}
+.conteiner5 {
+    width: 300px;
+    height: 300px;
+    background-color: #e36018;
+    position: absolute;
+    top: 900px;
+
+    left: 100px;
+    z-index: 40;
+}
+.conteiner6 {
+    position: absolute;
+    top: 915px;
+
+    left: 115px;
+    width: 270px;
+    height: 270px;
+    border: 2px solid #ffff;
+    z-index: 45;
+    background-color: #e36018;
+}
+.conteiner6 p {
+    position: relative;  
+    top: 30%;
+    color: #ffff;
+    font-size: 24px;
+    line-height: 32px;
+    text-align: center;
+    font-weight: bolder;
+
+}
